@@ -1,0 +1,3 @@
+Código para la elaboración del Trabajo Fin de Máster: Simulación de la carga viaria ante variaciones de tráfico rodado durante la franja punta matutina en Chamberí (Madrid).
+
+Un primer cuaderno aborda la selección del distrito; un segundo, la selección de los sensores; un tercero, el preprocesamiento y la transformación de los datos; un cuarto, la optimización y la evaluación de los modelos de aprendizaje automático; y un último, la simulación de los escenarios e hipótesis. Estos cuadernos deben ejecutarse en el orden que han sido mencionados, ya que forman parte de una metodología secuencial.
